@@ -20,5 +20,5 @@ then use the following command to upload.\
 - curl
 
 ## For secure transactions please consider
-- to change the name of upload.php and 'var_name' according to your preference
+- to change 'VAR', 'DIR', and the name of upload.php according to your preference
 - to use https
